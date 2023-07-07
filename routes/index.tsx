@@ -21,6 +21,7 @@ export default function Home(
   }>,
 ) {
   const { services } = props.data;
+  const today = new Date();
   return (
     <>
       <Head>
@@ -40,7 +41,7 @@ export default function Home(
           <strong class="text-2xl inline-block mb-4">Announcements</strong>
           {services.map((service) => {
             const dateObj = new Date(service.service_date);
-            if (dateObj >= new Date() && service.special_notes) {
+            if (dateObj >= today && service.special_notes) {
               return <p>- {service.special_notes}</p>;
             } else return null;
           })}
@@ -49,9 +50,12 @@ export default function Home(
         <div>{}</div>
 
         <div class={tw`my-12`}>
-          {services.map((service) => (
-            <ServiceCard key={service.id} service={service} />
-          ))}
+          {services.map((service) => {
+            const dateObj = new Date(service.service_date);
+            if (dateObj >= today) {
+              return <ServiceCard key={service.id} service={service} />;
+            }
+          })}
         </div>
       </div>
     </>
