@@ -3,7 +3,7 @@
     {
       "id": 1,
       "sort": null,
-      "anthem_pdf": "c3b3b87b-9f85-4578-9e62-9cb143ed7db6",
+      "anthem_pdf": "SHAW-With_a_Voice_of_Singing_SATB_organ",
       "title": "September 3rd",
       "call_time": "9:45am",
       "anthem_title": "With a Voice of Singing - Martin Shaw",
@@ -16,14 +16,14 @@
     {
       "id": 2,
       "sort": null,
-      "anthem_pdf": "e3cc24a2-781e-4f43-919e-d56a2e58fd7e",
+      "anthem_pdf": "Sing+out+a+song_20200109155712",
       "title": "September 10th",
       "call_time": "9:45am",
       "anthem_title": "Sing Out a Song (Nancy Price and Don Besig)",
       "other_music": null,
       "special_notes": "No rehearsal Wednesday Sept. 6th",
       "other_pdf": null,
-      "service_date": "2023-06-10",
+      "service_date": "2023-09-10",
       "listen_link": null
     },
     {
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "sort": null,
-      "anthem_pdf": "d1e1b245-fe5f-4a10-832a-257209397771",
+      "anthem_pdf": null,
       "title": "September 24th",
       "call_time": "10:00am",
       "anthem_title": "I Will Sing with the Spirit",
@@ -55,7 +55,7 @@
     {
       "id": 5,
       "sort": null,
-      "anthem_pdf": "5002531f-caaf-4068-abcf-8e886cab3188",
+      "anthem_pdf": "Verleih+uns+Frieden",
       "title": "October 1st (World Communion Sunday)",
       "call_time": "10:00am",
       "anthem_title": "Lord In Thy Mercy, Grant Us Thy Peace (Mendelssohn)",
@@ -68,10 +68,10 @@
     {
       "id": 6,
       "sort": null,
-      "anthem_pdf": "d38acdb1-3857-4640-a9ad-4d72cfd391ee",
+      "anthem_pdf": "Loving+Shepherd+of+the+sheep+ledger",
       "title": "October 8th",
       "call_time": "10:00am",
-      "anthem_title": "Loving Shepherd of Thy Sheep (Ledger)",
+      "anthem_title": "Loving Shepherd of thy sheep (Ledger)",
       "other_music": null,
       "special_notes": null,
       "other_pdf": null,
@@ -94,7 +94,7 @@
     {
       "id": 8,
       "sort": null,
-      "anthem_pdf": "78445e5f-b47b-445a-92d8-96f1c722c657",
+      "anthem_pdf": "Majesty+and+glory+of+your+name",
       "title": "October 22nd",
       "call_time": "10:00am",
       "anthem_title": "The Majesty and Glory of Your Name (Fettke)",
@@ -120,7 +120,7 @@
     {
       "id": 10,
       "sort": null,
-      "anthem_pdf": "30f39d95-cb0d-4110-82d0-819924f52b2a",
+      "anthem_pdf": "locus+iste+-+Bruckner_20190109201110",
       "title": "November 5th (All Saints)",
       "call_time": "10:00am",
       "anthem_title": "Locus Iste (Bruckner)",
@@ -133,7 +133,7 @@
     {
       "id": 11,
       "sort": null,
-      "anthem_pdf": "9823a20d-af1e-462d-ae1c-0b579a21c72d",
+      "anthem_pdf": "13+Keep+Your+Lamps",
       "title": "November 12th",
       "call_time": "10:00am",
       "anthem_title": "Keep Your Lamps (Thomas)",
@@ -172,7 +172,7 @@
     {
       "id": 14,
       "sort": null,
-      "anthem_pdf": "65c98085-ab4b-4e5a-8fab-85cbe925c946",
+      "anthem_pdf": "beautiful+savior+-+David+allen_20190109185751",
       "title": "November 26th (Christ the King)",
       "call_time": "10:00am",
       "anthem_title": "Beautiful Savior (Allen)",
@@ -185,7 +185,7 @@
     {
       "id": 15,
       "sort": null,
-      "anthem_pdf": "5cdd20ce-e579-4420-a7a2-b62ac7768b1c",
+      "anthem_pdf": "E'en+So%2C+Lord+Jesus%2C+Quickly+Come+2",
       "title": "December 3rd (Advent 1)",
       "call_time": "10:00am",
       "anthem_title": "E'en So Lord Jesus Quickly Come",
@@ -211,7 +211,7 @@
     {
       "id": 17,
       "sort": null,
-      "anthem_pdf": "f560d480-785f-4a9a-8cef-c416a791bb3e",
+      "anthem_pdf": "Jesus-Christ-the-apple-tree",
       "title": "LESSONS & CAROLS (December 17th)",
       "call_time": "TBD",
       "anthem_title": "Jesus Christ the Apple Tree (Poston)",
@@ -224,7 +224,7 @@
     {
       "id": 18,
       "sort": null,
-      "anthem_pdf": "ae2f68c0-9b33-4358-8316-d15aee0a98c2",
+      "anthem_pdf": "100-234-O-little-town-of-Bethlehem",
       "title": "December 24th (Advent 4)",
       "call_time": "10:00am",
       "anthem_title": "O Little Town of Bethlehem",
@@ -237,7 +237,7 @@
     {
       "id": 19,
       "sort": null,
-      "anthem_pdf": "261f2139-7829-4196-8c25-8b88f507bb57",
+      "anthem_pdf": "darke+bleak+mid-winter",
       "title": "CHRISTMAS EVE",
       "call_time": "TBD",
       "anthem_title": "In the Bleak Midwinter (Darke)",

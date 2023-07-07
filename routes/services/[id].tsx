@@ -39,7 +39,7 @@ export default function Details(
           ? (
             <a
               class={tw`rounded-full inline-block my-6 px-6 py-3 bg-[#c9d48a]`}
-              href={`http://0.0.0.0:8055/assets/${service.anthem_pdf}`}
+              href={`https://npcovenant-cc.s3.us-east-2.amazonaws.com/${service.anthem_pdf}.pdf`}
               target="_blank"
             >
               SHEET MUSIC
