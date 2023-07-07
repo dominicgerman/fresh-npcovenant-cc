@@ -1,10 +1,7 @@
 import { Head } from "$fresh/runtime.ts";
-import { useSignal } from "@preact/signals";
 import { tw } from "twind";
 import { Handlers, PageProps } from "https://deno.land/x/fresh@1.2.0/server.ts";
 import { Service } from "../utils/types.ts";
-import { DB, TOKEN } from "../utils/env.ts";
-import Counter from "../islands/Counter.tsx";
 import ServiceCard from "../components/ServiceCard.tsx";
 import db from "../static/db.json" assert { type: "json" };
 
@@ -23,7 +20,6 @@ export default function Home(
     services: Service[];
   }>,
 ) {
-  const count = useSignal(3);
   const { services } = props.data;
   return (
     <>

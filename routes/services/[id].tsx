@@ -3,7 +3,6 @@ import { tw } from "twind";
 import { Handlers, PageProps } from "$fresh/server.ts";
 
 import { Service } from "../../utils/types.ts";
-import { DB } from "../../utils/env.ts";
 import db from "../../static/db.json" assert { type: "json" };
 
 export const handler: Handlers<{ service: Service }> = {
