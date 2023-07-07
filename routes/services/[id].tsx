@@ -27,7 +27,9 @@ export default function Details(
         <h1 class={tw`my-2 text-5xl`}>{service.title}</h1>
         {service.special_notes
           ? (
-            <div class={tw`px-6 py-1 my-4 rounded-md bg-[#fa00001a]`}>
+            <div
+              class={tw`px-6 py-1 my-4 border border-[#ff0000] rounded-md bg-[#fa00001a]`}
+            >
               <strong>Reminder:</strong> {service.special_notes}
             </div>
           )
