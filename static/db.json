@@ -7,29 +7,31 @@
       "title": "September 3rd",
       "call_time": "9:45am",
       "anthem_title": "With a Voice of Singing - Martin Shaw",
-      "other_music": null,
+      "other_music": "Benediction: The Lord Bless You and Keep You - Lutkin",
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-09-03",
-      "listen_link": "https://youtu.be/-Klw9KmTb38"
+      "listen_link": "https://youtu.be/-Klw9KmTb38",
+      "other_link": null
     },
     {
       "id": 2,
       "sort": null,
-      "anthem_pdf": "Sing+out+a+song_20200109155712",
-      "title": "September 10th",
+      "anthem_pdf": null,
+      "title": "September 10th (NO CHOIR)",
       "call_time": "9:45am",
-      "anthem_title": "Sing Out a Song (Nancy Price and Don Besig)",
+      "anthem_title": "***NO CHANCEL CHOIR***",
       "other_music": null,
       "special_notes": "No rehearsal Wednesday Sept. 6th",
       "other_pdf": null,
       "service_date": "2023-09-10",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 3,
       "sort": null,
-      "anthem_pdf": null,
+      "anthem_pdf": "Offertory",
       "title": "September 17th",
       "call_time": "10:00am",
       "anthem_title": "Offertory (John Ness Beck)",
@@ -37,12 +39,13 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-09-17",
-      "listen_link": null
+      "listen_link": "https://youtu.be/6jAOsbK4_ug?si=C4oOldcCuHnyBHjm",
+      "other_link": null
     },
     {
       "id": 4,
       "sort": null,
-      "anthem_pdf": null,
+      "anthem_pdf": "I-will-sing-with-the-spirit",
       "title": "September 24th",
       "call_time": "10:00am",
       "anthem_title": "I Will Sing with the Spirit",
@@ -50,7 +53,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-09-24",
-      "listen_link": null
+      "listen_link": "https://youtu.be/bh42kxlIzXA?si=SHYceyUvCMkiPQ6R",
+      "other_link": null
     },
     {
       "id": 5,
@@ -59,11 +63,12 @@
       "title": "October 1st (World Communion Sunday)",
       "call_time": "10:00am",
       "anthem_title": "Lord In Thy Mercy, Grant Us Thy Peace (Mendelssohn)",
-      "other_music": null,
+      "other_music": "Communion anthem: Ave Verum Corpus (Mozart)",
       "special_notes": null,
-      "other_pdf": null,
+      "other_pdf": "Ave-Verum-Corpus",
       "service_date": "2023-10-01",
-      "listen_link": null
+      "listen_link": "https://youtu.be/31DY-cZuGJs?si=tAiMJeCOQADgBNNa",
+      "other_link": "https://youtu.be/pscsAvGjQI0?si=nWya25QPt1PV4Vux"
     },
     {
       "id": 6,
@@ -73,10 +78,11 @@
       "call_time": "10:00am",
       "anthem_title": "Loving Shepherd of thy sheep (Ledger)",
       "other_music": null,
-      "special_notes": null,
+      "special_notes": "No rehearsal Wednesday Oct. 4th",
       "other_pdf": null,
       "service_date": "2023-10-08",
-      "listen_link": null
+      "listen_link": "https://youtu.be/V00oi3MCVts?si=YpwgJMv650KhR9RX",
+      "other_link": null
     },
     {
       "id": 7,
@@ -89,7 +95,8 @@
       "special_notes": "No choir on Sunday, October 15th",
       "other_pdf": null,
       "service_date": "2023-10-15",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 8,
@@ -102,7 +109,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-10-22",
-      "listen_link": null
+      "listen_link": "https://youtu.be/NfaQ8qoCUaA?si=ZEKj6Sr9o3-7ip1F",
+      "other_link": null
     },
     {
       "id": 9,
@@ -115,7 +123,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-10-29",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 10,
@@ -124,11 +133,12 @@
       "title": "November 5th (All Saints)",
       "call_time": "10:00am",
       "anthem_title": "Locus Iste (Bruckner)",
-      "other_music": null,
+      "other_music": "Benediction: Lord Bless You and Keep You (Rutter)",
       "special_notes": null,
-      "other_pdf": null,
+      "other_pdf": "Lord-Bless-You-Rutter",
       "service_date": "2023-11-05",
-      "listen_link": null
+      "listen_link": "https://youtu.be/XQRYwe4KDDQ?si=X4T4y7GXJngJeeF8",
+      "other_link": "https://youtu.be/lCpxgEHqjFA?si=ibOtMRq5nRiX9kGO"
     },
     {
       "id": 11,
@@ -141,7 +151,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-11-12",
-      "listen_link": null
+      "listen_link": "https://youtu.be/ZPxVyTeM5dY?si=txlvZrtYNEXo_NlV",
+      "other_link": null
     },
     {
       "id": 12,
@@ -154,7 +165,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-11-19",
-      "listen_link": null
+      "listen_link": "https://youtu.be/-BNmdzsQ-ac?si=lBbVHflnBmRg8xmB",
+      "other_link": null
     },
     {
       "id": 13,
@@ -167,7 +179,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-11-22",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 14,
@@ -180,7 +193,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-11-26",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 15,
@@ -193,12 +207,13 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-12-03",
-      "listen_link": null
+      "listen_link": "https://youtu.be/qjtMJxtoooI?si=0ruxXHnlR6Aqp_iA",
+      "other_link": null
     },
     {
       "id": 16,
       "sort": null,
-      "anthem_pdf": null,
+      "anthem_pdf": "Every-Valley",
       "title": "December 10th (Advent 2)",
       "call_time": "10:00am",
       "anthem_title": "Every Valley (Beck)",
@@ -206,7 +221,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-12-10",
-      "listen_link": null
+      "listen_link": "https://youtu.be/nweFg-tqaJw?si=6ejhVUy2Hw7RrzZz",
+      "other_link": null
     },
     {
       "id": 17,
@@ -217,9 +233,10 @@
       "anthem_title": "Jesus Christ the Apple Tree (Poston)",
       "other_music": "Tomorrow Shall Be My Dancing Day (Gardner)",
       "special_notes": null,
-      "other_pdf": null,
+      "other_pdf": "Tomorrow-Shall-Be-My-Dancing-Day",
       "service_date": "2023-12-17",
-      "listen_link": null
+      "listen_link": "https://youtu.be/SixnHKwyrjI?si=uOWs50DESRf8hcMe",
+      "other_link": "https://youtu.be/q-0kkW9RWYA?si=7gwzkIp7BkQ_nDDP"
     },
     {
       "id": 18,
@@ -232,7 +249,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-12-24",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 19,
@@ -245,7 +263,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-12-24",
-      "listen_link": null
+      "listen_link": "https://youtu.be/yb9tHjuy9Hw?si=DcIbHPSBjR2r7vuS",
+      "other_link": null
     },
     {
       "id": 20,
@@ -258,7 +277,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2023-12-25",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     },
     {
       "id": 21,
@@ -271,7 +291,8 @@
       "special_notes": null,
       "other_pdf": null,
       "service_date": "2022-12-25",
-      "listen_link": null
+      "listen_link": null,
+      "other_link": null
     }
   ]
 }
