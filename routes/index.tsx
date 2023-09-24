@@ -22,7 +22,7 @@ export default function Home(
 ) {
   const { services } = props.data
   const today = Date.parse(new Date())
-  const SIX_HOURS = 21600000
+  const TWENTY_FOUR_HOURS = 21600000 * 4
 
   return (
     <>
@@ -52,7 +52,7 @@ export default function Home(
         <div class={tw`my-12`}>
           {services.map((service) => {
             const dateObj =
-              Date.parse(new Date(service.service_date)) + SIX_HOURS
+              Date.parse(new Date(service.service_date)) + TWENTY_FOUR_HOURS
             if (dateObj >= today) {
               return <ServiceCard key={service.id} service={service} />
             }
